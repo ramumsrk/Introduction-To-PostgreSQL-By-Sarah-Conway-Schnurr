@@ -1,0 +1,6 @@
+-[ RECORD 1 ]----+---------
+current_database | postgres
+current_role     | postgres
+current_user     | postgres
+current_schema   | public
+
